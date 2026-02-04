@@ -1,0 +1,17 @@
+# Nextflow
+work/
+.nextflow*
+.nextflow.log*
+
+# Large outputs
+INDEX/
+TRIMMED/
+QC_REPORTS/
+MAPPING/
+READ_COUNT/
+*.bam
+*.bai
+
+# FASTQ
+fastq/
+chrX_data.tar.gz

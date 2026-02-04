@@ -15,3 +15,9 @@ READ_COUNT/
 # FASTQ
 fastq/
 chrX_data.tar.gz
+
+# Reference genomes
+ref/*.fa
+ref/*.fasta
+ref/*.gtf
+ref/*.gff

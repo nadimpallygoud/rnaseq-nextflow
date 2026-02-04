@@ -70,7 +70,7 @@ All steps are orchestrated using **Nextflow DSL2**.
 - `subread` (featureCounts)
 
 Example Conda environment:
-```bash
+bash
 conda create -n rnaseq \
   -c conda-forge -c bioconda \
   nextflow fastqc multiqc trim-galore star subread
